@@ -1,6 +1,6 @@
 # 🌸 Herlinda Apriani's Portfolio Website
 
-Welcome to my personal portfolio website! This project showcases my journey as a **Full-stack Software Engineer**, my skills, academic background, and projects. Built with **HTML, JavaScript, and Tailwind CSS**, this site reflects my passion for web development, anime, and clean, functional design.  
+Welcome to my personal portfolio website! This project showcases my journey as a **Full-stack Software Engineer**, my skills, academic background, and projects. Built with **HTML, JavaScript, and Tailwind CSS**, this site reflects my passion for web development, and clean, functional design.  
 
 🌐 **Live Demo:** [Your Website Link Here]  
 
@@ -27,14 +27,12 @@ Welcome to my personal portfolio website! This project showcases my journey as a
 
 ## 📂 Project Structure
 
-📂 project-root │── 📁 assets # Images, logos, and icons
+📂 project-root
+|── 📁 assets # Images, logos, and icons
 │── 📁 stylesheets # External CSS files
 │── index.html # Main HTML structure
 │── script.js # JavaScript for animations & interactions
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -45,16 +43,22 @@ Edit
    git clone https://github.com/yourusername/your-repo-name.git
 Open index.html in your browser
 Enjoy exploring my portfolio! 🎉
+
+---
+
 🛠 Future Improvements
 🌙 Dark Mode for enhanced UI experience
 🔗 More Projects to showcase my growing portfolio
 🎵 Background Music Option for a fun touch
+
+---
+
 🤝 Connect With Me
 📧 Email: herlindaapr@gmail.com
 📍 Location: D.I. Yogyakarta, Indonesia
 
 Follow me on:
 
-
+---
 
 🌟 "Turning ideas into reality, one line of code at a time."
