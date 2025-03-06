@@ -46,14 +46,14 @@ Enjoy exploring my portfolio! 🎉
 
 ---
 
-⋅⋅⋅ 🛠 Future Improvements
-⋅⋅⋅ 🔗 More Projects to showcase my growing portfolio
+⋅⋅⋅🛠 Future Improvements⋅⋅⋅
+⋅⋅⋅🔗 More Projects to showcase my growing portfolio⋅⋅⋅
 
 ---
 
 # 🤝 Connect With Me
-⋅⋅⋅ 📧 Email: herlindaapr@gmail.com
-⋅⋅⋅ 📍 Location: D.I. Yogyakarta, Indonesia
+⋅⋅⋅📧 Email: herlindaapr@gmail.com⋅⋅⋅
+⋅⋅⋅📍 Location: D.I. Yogyakarta, Indonesia⋅⋅⋅
 
 Follow me on:
 
