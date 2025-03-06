@@ -27,9 +27,9 @@ Welcome to my personal portfolio website! This project showcases my journey as a
 
 ## 📂 Project Structure
 
-- 📂 project-root
-- 📁 assets # Images, logos, and icons
-- 📁 stylesheets # External CSS files
+📂 project-root
+📁 assets # Images, logos, and icons
+📁 stylesheets # External CSS files
 - index.html # Main HTML structure
 - script.js # JavaScript for animations & interactions
 
@@ -51,7 +51,7 @@ Enjoy exploring my portfolio! 🎉
 
 ---
 
-# 🤝 Connect With Me
+### 🤝 Connect With Me
 📧 Email: herlindaapr@gmail.com
 📍 Location: D.I. Yogyakarta, Indonesia
 
