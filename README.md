@@ -27,4 +27,34 @@ Welcome to my personal portfolio website! This project showcases my journey as a
 
 ## 📂 Project Structure
 
-# about-me
+📂 project-root │── 📁 assets # Images, logos, and icons
+│── 📁 stylesheets # External CSS files
+│── index.html # Main HTML structure
+│── script.js # JavaScript for animations & interactions
+
+yaml
+Copy
+Edit
+
+---
+
+## 🚀 Installation & Usage
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+Open index.html in your browser
+Enjoy exploring my portfolio! 🎉
+🛠 Future Improvements
+🌙 Dark Mode for enhanced UI experience
+🔗 More Projects to showcase my growing portfolio
+🎵 Background Music Option for a fun touch
+🤝 Connect With Me
+📧 Email: herlindaapr@gmail.com
+📍 Location: D.I. Yogyakarta, Indonesia
+
+Follow me on:
+
+
+
+🌟 "Turning ideas into reality, one line of code at a time."
