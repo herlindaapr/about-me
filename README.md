@@ -25,14 +25,25 @@ Welcome to my personal portfolio website! This project showcases my journey as a
 
 ---
 
-## 📂 Project Structure
+## 🏠 Navigation
 
-📂 project-root
-📁 assets # Images, logos, and icons
-📁 stylesheets # External CSS files
-- index.html # Main HTML structure
-- script.js # JavaScript for animations & interactions
+- **[About Me](#about)**
+- **[Academic Journey](#academic)**
+- **[Skills](#skills)**
+- **[Projects](#projects)**
+- **[Contact Me](#contact)**
 
+---
+
+## 🏆 Projects
+
+### 🎶 [Hatsune Miku Fanpage](https://hatsune-miku-xoxo.netlify.app/)
+💖 _A tribute page to Hatsune Miku, my first anime love!_  
+🛠️ **Built with:** HTML, Tailwind CSS, JavaScript  
+
+### 🏋️ [BMI Calculator](https://body-mass-index-c.netlify.app/)
+⚖️ _A simple tool to calculate your Body Mass Index (BMI) and suggest a healthy lifestyle._  
+🛠️ **Built with:** HTML, Tailwind CSS, JavaScript  
 
 ---
 
@@ -42,7 +53,7 @@ Welcome to my personal portfolio website! This project showcases my journey as a
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
 Open index.html in your browser
-Enjoy exploring my portfolio! 🎉
+Enjoy exploring my portfolio!🎉
 
 ---
 
@@ -51,12 +62,14 @@ Enjoy exploring my portfolio! 🎉
 
 ---
 
-### 🤝 Connect With Me
-📧 Email: herlindaapr@gmail.com
-📍 Location: D.I. Yogyakarta, Indonesia
+## 📬 Contact Me
 
-Follow me on:
+💡 **Got an idea? Let's collaborate!**  
+📝 Fill out the contact form on my website to reach out.
 
----
+🔗 **Connect with me**:  
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/herlindaapr)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/herlindaapr)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/herlindaapr)  
 
-🌟 "Turning ideas into reality, one line of code at a time."
+📅 **Made by Herlinda Apriani &copy; 2025** 
